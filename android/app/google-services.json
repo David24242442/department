@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1027311554763",
+    "firebase_url": "https://auth-4da56-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "auth-4da56",
+    "storage_bucket": "auth-4da56.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1027311554763:android:0d50e4d48619fd83624b4e",
+        "android_client_info": {
+          "package_name": "com.Email.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeHFnLP55abdPkjlihA4u9XSgjQeL1YgY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
